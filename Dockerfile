@@ -1,4 +1,4 @@
-FROM yongjhih/alpine-openjdk
+FROM frolvlad/alpine-oraclejdk8
 
 ENV ANDROID_HOME /opt/android-sdk-linux
 
